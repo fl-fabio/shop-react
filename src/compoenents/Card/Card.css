@@ -1,0 +1,27 @@
+.btn {
+    margin: 10px;
+}
+
+.card-text {
+    background-color: azure;
+    color: darkblue;
+}
+
+.card-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.col {
+    flex: 0 !important;
+    margin-bottom: 1.5rem;
+}
+
+.stylized {
+    max-height: 200px;
+}
+
+.fixedHeight {
+    height: 200px;
+}
